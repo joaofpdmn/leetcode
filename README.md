@@ -1,0 +1,3 @@
+# leetcode
+
+REPOSITÓRIO PARA SOLUÇÕES DO SITE LEETCODE. 
